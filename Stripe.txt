@@ -47,6 +47,7 @@ const stripe = require("stripe")("sk_test_51OrCj0SGJ3M5HSsKbGR0Ub2rY4hmsqajeT91r
 
 app.use(express.json());
 app.use(cors());
+//app.use(cors("localhost:3000"));
 
 // checkout api
 app.post("/api/create-checkout-session", async(req, res) => {
