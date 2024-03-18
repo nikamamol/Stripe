@@ -86,3 +86,5 @@ app.listen(3000, () => {
 //checkout link
 https://docs.stripe.com/payments/checkout/how-checkout-works
 docs.stripe.com
+
+https://www.youtube.com/watch?v=FXGr_Sz94ws     
