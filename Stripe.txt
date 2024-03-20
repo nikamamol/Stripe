@@ -88,3 +88,8 @@ https://docs.stripe.com/payments/checkout/how-checkout-works
 docs.stripe.com
 
 https://www.youtube.com/watch?v=FXGr_Sz94ws     
+
+
+
+
+https://dev.to/soumyadey/integrate-razorpay-in-your-react-app-2nib
